@@ -1,9 +1,9 @@
 # 文件：初步知识学习
 内容：
 train1_1  列表
-train1_2  
-train1_3  
-train2_1  
+train1_2  元组
+train1_3  字典
+train2_1  时间和日期
 train2_2  
 train3_1  
 train4_1  
